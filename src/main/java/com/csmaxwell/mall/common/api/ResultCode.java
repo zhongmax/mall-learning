@@ -2,7 +2,7 @@ package com.csmaxwell.mall.common.api;
 
 /**
  * 枚举了一些常用API操作码
- * Created by macro on 2019/4/19.
+ * Created by maxwell on 2020/4/23.
  */
 public enum ResultCode implements com.csmaxwell.mall.common.api.IErrorCode {
     SUCCESS(200, "操作成功"),
