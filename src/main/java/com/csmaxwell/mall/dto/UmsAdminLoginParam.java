@@ -1,4 +1,4 @@
-package com.csmaxwell.mall.dao;
+package com.csmaxwell.mall.dto;
 
 import io.swagger.annotations.ApiModelProperty;
 import org.hibernate.validator.constraints.NotEmpty;

@@ -1,7 +1,7 @@
 package com.csmaxwell.mall.controller;
 
 import com.csmaxwell.mall.common.api.CommonResult;
-import com.csmaxwell.mall.dao.UmsAdminLoginParam;
+import com.csmaxwell.mall.dto.UmsAdminLoginParam;
 import com.csmaxwell.mall.mbg.model.UmsAdmin;
 import com.csmaxwell.mall.mbg.model.UmsPermission;
 import com.csmaxwell.mall.service.UmsAdminService;
